@@ -1,2 +1,2 @@
-﻿ # Derby Owners Club Wiki Project
-Automated management and preservation of the DOC arcade scene.
+﻿# Four Swords Retropub: Wiki Project
+This repository serves as the central documentation and content management system for the Derby Owners Club wiki. We are building this to preserve community knowledge and technical data for our arcade hardware and game mechanics.
