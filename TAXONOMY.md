@@ -1,7 +1,17 @@
-﻿# Evidence Map & Master Index
+﻿Wiki Taxonomy & Needs
+This index tracks our documentation goals. If you see a [Needs Data] tag or have a page we should add feel free to start a branch for that page!
 
-| Page Title | Category | Status | Notes |
-| :--- | :--- | :--- | :--- |
-| `Hardware:Toei_TC-L175` | Hardware | Verified | Satellite monitor identified by chassis marking. |
-| `Mechanic:Breeding_Loop` | Mechanic | Draft | Based on forum archives. |
-| `Event:2026_Breeders_Cup`| Event | Verified | Hosted at Four Swords Retropub. |
+1. Hardware Index
+Sega Naomi | [Needs Data]
+
+Derby Owners Club Cabinet (General) | [Needs Data]
+
+2. Gameplay Mechanics
+Breeding Loop Mechanics | [Needs Data]
+
+Race Horse Stats (SPD/STA/GRIT) | [Needs Data]
+
+3. Events
+Four Swords Breeder's Cups (2026) | [Needs Data]
+
+Community Tournament Guide | [Needs Data]
